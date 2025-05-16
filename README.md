@@ -11,7 +11,7 @@
 
 ## 動かし方
 ```shell
-uv pip install -e .
+uv sync
 uv run main.py
 ```
 
